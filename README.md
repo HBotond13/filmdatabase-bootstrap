@@ -1,4 +1,4 @@
-# Bootstrap 5 portfolio page
+# Bootstrap 5 page
 
 ## Development
 
